@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/htalk/!svn/ver/85/VideoForH264/IVideoChat
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/htalk/!svn/ver/86/VideoForH264/IVideoChat/AndroidManifest.xml
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/htalk/!svn/ver/86/VideoForH264/IVideoChat/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/htalk/!svn/ver/86/VideoForH264/IVideoChat/.project
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/htalk/!svn/ver/86/VideoForH264/IVideoChat/proguard.cfg
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/htalk/!svn/ver/86/VideoForH264/IVideoChat/.classpath
+END

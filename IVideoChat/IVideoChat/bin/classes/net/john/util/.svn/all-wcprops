@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/htalk/!svn/ver/86/VideoForH264/IVideoChat/src/net/john/util
+END
+UltraNetConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/htalk/!svn/ver/86/VideoForH264/IVideoChat/src/net/john/util/UltraNetConnection.java
+END
+NetworkConnectUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/htalk/!svn/ver/86/VideoForH264/IVideoChat/src/net/john/util/NetworkConnectUtil.java
+END
+RemoteUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/htalk/!svn/ver/86/VideoForH264/IVideoChat/src/net/john/util/RemoteUtil.java
+END
+RTMPConnectionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/htalk/!svn/ver/86/VideoForH264/IVideoChat/src/net/john/util/RTMPConnectionUtil.java
+END
+HttpConnectUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/htalk/!svn/ver/86/VideoForH264/IVideoChat/src/net/john/util/HttpConnectUtil.java
+END
+UltraNetStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/htalk/!svn/ver/86/VideoForH264/IVideoChat/src/net/john/util/UltraNetStream.java
+END

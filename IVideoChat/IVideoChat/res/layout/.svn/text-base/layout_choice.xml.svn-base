@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        
+        <Button
+            android:id="@+id/button_video"
+            android:background="@drawable/button"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_marginTop="70dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:textColor="#000000"
+            android:text="@string/button_video" />
+
+        <Button
+            android:id="@+id/button_upload"
+            android:background="@drawable/button"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/button_video"
+            android:textColor="#000000"
+            android:text="@string/button_upload" />
+        
+         <Button
+            android:id="@+id/button_logout"
+           	android:background="@drawable/button"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/button_upload"
+            android:textColor="#000000"
+            android:text="@string/button_logout" />
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="50dp"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView_welcome"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/textview_welcome"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/textView_tip"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:text="@string/textview_tip"
+                android:textColor="#EE0000" />
+            
+        </LinearLayout>
+        
+    </RelativeLayout>
+
+</LinearLayout>
